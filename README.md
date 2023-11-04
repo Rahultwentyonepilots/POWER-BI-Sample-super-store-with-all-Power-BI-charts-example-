@@ -1,5 +1,4 @@
 # POWER-BI-Sample-super-store-with-all-Power-BI-charts-example-
-
 The "Sample Super Store" is a fictional dataset often used for training and learning purposes in Power BI and other data analytics tools. It represents a simulated dataset of sales and business operations for a retail superstore. Here's a brief description:
 
 Sample Super Store Dataset:
